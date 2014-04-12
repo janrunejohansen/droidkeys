@@ -1,3 +1,4 @@
+// Jan Rune Johansen 2014
 package no.jjohansen.master;
 
 import android.app.Activity;
@@ -14,7 +15,7 @@ public class MainActivity extends Activity {
         super.onCreate(icicle);
         // Aktiviteten starter her
         setContentView(R.layout.main);
-	
+            	
 		String test = libfunc.getMessage();
 
     }
