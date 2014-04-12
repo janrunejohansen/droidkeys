@@ -5,7 +5,6 @@ import android.os.Bundle;
 import org.library.*;
 
 /**
- *
  * @author Jan Rune Johansen
  */
 public class MainActivity extends Activity {
