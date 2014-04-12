@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
-        // Aktivitet starter her
+        // Aktiviteten starter her
         setContentView(R.layout.main);
 	
 		String test = libfunc.getMessage();
