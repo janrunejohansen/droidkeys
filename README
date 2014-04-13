@@ -2,5 +2,4 @@
 
 *  Tiny core written with extensibility in mind ([open/closed principle][8]).
 *  Optimized for speed; it loads in under a millisecond.
-*  The master branch tries to be as stable as possible, and new features are merged in only after they have gone through a [full regression test][33].
 *  Unit testing suite.
