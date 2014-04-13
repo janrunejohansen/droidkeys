@@ -1,5 +1,4 @@
 // Jan Rune Johansen 2014 ©
-// www.jjohansen.no
 
 package no.jjohansen.master;
 
