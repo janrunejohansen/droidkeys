@@ -1,5 +1,6 @@
 // Jan Rune Johansen 2014 ©
 
+
 package no.jjohansen.master;
 
 import android.app.Activity;
